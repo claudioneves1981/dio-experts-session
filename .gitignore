@@ -1,0 +1,4 @@
+# Project exclude paths
+/shopping-cart/.gradle/
+/shopping-cart/build/
+/shopping-cart/build/classes/java/main/
